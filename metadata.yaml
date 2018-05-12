@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32272'
     url: http://www.gutenberg.org/2009/agents/32272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26846#Iets-over-de-grammaticale-beoefening-der-Friesche-taal-in-haar-geheelen-omvang
 gutenberg_issued: '2008-10-08'
 gutenberg_type: Text
 identifiers:

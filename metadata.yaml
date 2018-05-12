@@ -1,0 +1,27 @@
+_repo: Iets-over-de-grammaticale-beoefening-der-Friesche-taal-in-haar-geheelen-omvang_26846
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Telting, Albartus
+    alias: Telting, Albertus
+    birthdate: 1803
+    deathdate: 1863
+    gutenberg_agent_id: '32272'
+    url: http://www.gutenberg.org/2009/agents/32272
+description: ''
+gutenberg_issued: '2008-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26846'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frisian language -- Grammar'
+- !lcc 'PF'
+title: Iets over de grammaticale beoefening der Friesche taal in haar geheelen omvang
+url: http://www.gutenberg.org/ebooks/26846
